@@ -9,4 +9,6 @@
 ### Portfolio
 <b>[digilm](https://sites.google.com/view/digilm/home)</b> - android & iOS application
 
-<b>[code_scanner](https://github.com/hondaya14/code_scanner)</b> - Flutter native plugin
+<b>[code_scanner](https://github.com/hondaya14/code_scanner)</b> - Flutter plugin
+
+<b>[Eos](https://osdn.net/projects/eos/)</b> - OSS: Image Analysis([osdn account](https://osdn.net/users/honda_/))
